@@ -1,0 +1,14 @@
+#header {
+    float: left;
+    background-color: grey;
+    width: 100%
+}
+#buttons {
+    background-color: dimgrey;
+    float: left;
+    width: 100%;
+}
+#reservera {
+    background-color: lightslategrey;
+
+}
