@@ -1,14 +1,37 @@
 #header {
     float: left;
-    background-color: grey;
-    width: 100%
-}
-#buttons {
-    background-color: dimgrey;
-    float: left;
+    background-color: darkred;
     width: 100%;
+    color: ghostwhite;
+    text-align: center;
+    border: 3px solid black;
+    margin: auto;
 }
-#reservera {
-    background-color: lightslategrey;
+
+#button1 {
+    background-color: darkred;
+    float: left;
+    border-radius: 10px;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+body {
+    margin: 0;
 
 }
+
+#buttonrelay
+{
+    background-color: black;
+    float: left;
+    height: 45px;
+    width: 100%;
+
+}
+
+a:link{color:ghostwhite;}
+a:visited{color:ghostwhite;}
