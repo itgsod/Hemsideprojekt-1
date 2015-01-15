@@ -1,11 +1,29 @@
+
+#sidebar {
+   float: right;
+   background-color: darkred;
+
+}
+
+
 #header {
-    float: left;
+    position: absolute;
     background-color: darkred;
-    width: 100%;
+    width: 786px;
+    height: 136px;
     color: ghostwhite;
     text-align: center;
-    border: 3px solid black;
+    font-size: 20px;
     margin: auto;
+    left: 247px;
+
+}
+
+#sidebar1 {
+    float: left;
+    background-color: darkred;
+
+
 }
 
 #button1 {
@@ -17,21 +35,87 @@
     text-align: center;
     padding-top: 5px;
     padding-bottom: 5px;
+    margin-right: 5px;
 }
 
 body {
     margin: 0;
+    background-image: url("../img/gyros.jpg");
 
 }
 
 #buttonrelay
 {
     background-color: black;
-    float: left;
+    position: absolute;
     height: 45px;
     width: 100%;
+    top: 136px;
+    border-top: solid black 4px;
 
 }
 
 a:link{color:ghostwhite;}
 a:visited{color:ghostwhite;}
+
+#button2 {
+    background-color: darkred;
+    float: left;
+    border-radius: 10px;
+    height: 30px;
+    width: 120px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+}
+
+#button3 {
+    background-color: darkred;
+    float: left;
+    border-radius: 10px;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+}
+
+#button4 {
+    background-color: darkred;
+    float: left;
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+}
+
+#button5 {
+    background-color: darkred;
+    float: left;
+    border-radius: 10px;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+}
+
+#button6 {
+    background-color: darkred;
+    float: left;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 5px;
+}
+
+
