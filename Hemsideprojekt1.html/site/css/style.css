@@ -40,7 +40,7 @@
 
 body {
     margin: 0;
-    background-image: url("../img/gyros.jpg");
+    
 
 }
 
@@ -118,4 +118,7 @@ a:visited{color:ghostwhite;}
     margin-right: 5px;
 }
 
-
+#frontimg {
+    width: 75%;
+    float: left;
+}
