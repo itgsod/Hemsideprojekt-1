@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4df2a0c4-74fb-46b7-960c-8f2a5fa9c43a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/Meny.html" afterPath="$PROJECT_DIR$/site/Meny.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/galleri.html" afterPath="$PROJECT_DIR$/site/galleri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/index.html" afterPath="$PROJECT_DIR$/site/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/img/gyros1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/omoss.html" afterPath="$PROJECT_DIR$/site/omoss.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/recensera.html" afterPath="$PROJECT_DIR$/site/recensera.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/reservationer.html" afterPath="$PROJECT_DIR$/site/reservationer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/css/style.css" afterPath="$PROJECT_DIR$/site/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Hemsideprojekt1.html.iws" />
@@ -33,14 +28,14 @@
     <favorites_list name="Hemsideprojekt1.html" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
+    <splitter split-orientation="vertical" split-proportion="0.48863637">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/site/index.html">
+          <file leaf-file-name="omoss.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/site/omoss.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.84949833" vertical-offset="421" max-vertical-offset="825">
-                  <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+                <state vertical-scroll-proportion="0.6185567" vertical-offset="495" max-vertical-offset="825">
+                  <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
@@ -53,18 +48,18 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/site/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.47949526" vertical-offset="583" max-vertical-offset="915">
-                  <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+                <state vertical-scroll-proportion="0.26153848" vertical-offset="695" max-vertical-offset="1020">
+                  <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
                   <folding>
                     <element signature="e#10#61#0" expanded="false" />
                     <element signature="e#311#364#0" expanded="false" />
                     <element signature="e#375#580#0" expanded="false" />
-                    <element signature="e#650#791#0" expanded="false" />
-                    <element signature="e#858#1064#0" expanded="false" />
-                    <element signature="e#1075#1280#0" expanded="false" />
-                    <element signature="e#1291#1496#0" expanded="false" />
-                    <element signature="e#1507#1712#0" expanded="false" />
-                    <element signature="e#1723#1929#0" expanded="false" />
+                    <element signature="e#668#809#0" expanded="false" />
+                    <element signature="e#876#1082#0" expanded="false" />
+                    <element signature="e#1093#1298#0" expanded="false" />
+                    <element signature="e#1309#1514#0" expanded="false" />
+                    <element signature="e#1525#1730#0" expanded="false" />
+                    <element signature="e#1741#1947#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -81,17 +76,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/site/Meny.html" />
-        <option value="$PROJECT_DIR$/site/omoss.html" />
         <option value="$PROJECT_DIR$/site/recensera.html" />
         <option value="$PROJECT_DIR$/site/reservationer.html" />
         <option value="$PROJECT_DIR$/site/galleri.html" />
-        <option value="$PROJECT_DIR$/site/css/style.css" />
         <option value="$PROJECT_DIR$/site/index.html" />
+        <option value="$PROJECT_DIR$/site/omoss.html" />
+        <option value="$PROJECT_DIR$/site/css/style.css" />
       </list>
     </option>
   </component>
@@ -129,6 +129,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,7 +200,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,14 +218,10 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -233,6 +229,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -248,6 +248,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="0" />
@@ -273,20 +278,20 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24609375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -312,6 +317,32 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/site/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="421" max-vertical-offset="825">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#10#61#0" expanded="false" />
+            <element signature="e#311#364#0" expanded="false" />
+            <element signature="e#375#580#0" expanded="false" />
+            <element signature="e#668#809#0" expanded="false" />
+            <element signature="e#876#1082#0" expanded="false" />
+            <element signature="e#1093#1298#0" expanded="false" />
+            <element signature="e#1309#1514#0" expanded="false" />
+            <element signature="e#1525#1730#0" expanded="false" />
+            <element signature="e#1741#1947#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="375">
           <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
@@ -326,12 +357,12 @@
             <element signature="e#10#61#0" expanded="false" />
             <element signature="e#311#364#0" expanded="false" />
             <element signature="e#375#580#0" expanded="false" />
-            <element signature="e#650#791#0" expanded="false" />
-            <element signature="e#858#1064#0" expanded="false" />
-            <element signature="e#1075#1280#0" expanded="false" />
-            <element signature="e#1291#1496#0" expanded="false" />
-            <element signature="e#1507#1712#0" expanded="false" />
-            <element signature="e#1723#1929#0" expanded="false" />
+            <element signature="e#668#809#0" expanded="false" />
+            <element signature="e#876#1082#0" expanded="false" />
+            <element signature="e#1093#1298#0" expanded="false" />
+            <element signature="e#1309#1514#0" expanded="false" />
+            <element signature="e#1525#1730#0" expanded="false" />
+            <element signature="e#1741#1947#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -348,15 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="2.1070235" vertical-offset="0" max-vertical-offset="720">
           <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/omoss.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.89966553" vertical-offset="361" max-vertical-offset="720">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -364,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.89966553" vertical-offset="361" max-vertical-offset="720">
           <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -372,7 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.89966553" vertical-offset="361" max-vertical-offset="720">
           <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -380,33 +400,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.89966553" vertical-offset="361" max-vertical-offset="720">
           <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.0535116" vertical-offset="61" max-vertical-offset="825">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/omoss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6185567" vertical-offset="495" max-vertical-offset="825">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47949526" vertical-offset="583" max-vertical-offset="915">
-          <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.26153848" vertical-offset="695" max-vertical-offset="1020">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding>
             <element signature="e#10#61#0" expanded="false" />
             <element signature="e#311#364#0" expanded="false" />
             <element signature="e#375#580#0" expanded="false" />
-            <element signature="e#650#791#0" expanded="false" />
-            <element signature="e#858#1064#0" expanded="false" />
-            <element signature="e#1075#1280#0" expanded="false" />
-            <element signature="e#1291#1496#0" expanded="false" />
-            <element signature="e#1507#1712#0" expanded="false" />
-            <element signature="e#1723#1929#0" expanded="false" />
+            <element signature="e#668#809#0" expanded="false" />
+            <element signature="e#876#1082#0" expanded="false" />
+            <element signature="e#1093#1298#0" expanded="false" />
+            <element signature="e#1309#1514#0" expanded="false" />
+            <element signature="e#1525#1730#0" expanded="false" />
+            <element signature="e#1741#1947#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84949833" vertical-offset="421" max-vertical-offset="825">
-          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
