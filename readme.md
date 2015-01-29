@@ -52,7 +52,8 @@ Projektet består av tre delar: *Planering*, *Implementering*, och *Utvärdering
 
 ## 1 Planering ##
 
-Planeringen skall göras klar och bli godkänd av Daniel eller Bosse innan ni går vidare till implementeringsfasen.
+Planeringen skall göras klar och bli godkänd av två andra grupper innan ni går vidare till implementeringsfasen.
+Medlemmarna i grupperna som godkänt projektplanen skall skriva under projektplanen.
 
 Planeringen skall innehålla följande:
 
@@ -83,7 +84,7 @@ Skall översiktligt visa hur sitens olika delar hänger ihop, och vilken typ av 
 
 ## 2 Implementering ##
 
-När planeringen är klar och godkänd av Daniel eller Bosse är det dags att skapa själva siten.
+När planeringen är klar och godkänd av två andra grupper är det dags att skapa själva siten.
 
 #### 2.1 Versionshantering ####
 
